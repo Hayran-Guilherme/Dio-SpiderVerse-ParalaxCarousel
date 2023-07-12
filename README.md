@@ -99,3 +99,17 @@ Agora você está pronto para explorar o projeto em seu ambiente local!
     <p>&nbsp&nbsp&nbspHáyran Guilherme Guedes Carvalho<br>
     &nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/hayran-guilherme//">LinkedIn</a>&nbsp;|&nbsp <a href="https://github.com/Hayran-Guilherme">GitHub</a> &nbsp;|&nbsp;&nbsp;<a href="https://www.instagram.com/hayrabson">Instagram</a>&nbsp;</p>
 </p>
+
+
+<br/><br/>
+<p>
+
+## 👩‍💻 Autora
+
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
+    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
+</p>
+<br/><br/>
+<p>
